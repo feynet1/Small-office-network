@@ -1,6 +1,3 @@
-Here’s your **clean, professional GitHub README** with proper formatting, structure, and readability 👇
-
----
 
 # 📘 Small Office Network Design (Enterprise-Level)
 
@@ -177,19 +174,3 @@ ping <destination-ip>
 * Real-world routing configuration
 * Troubleshooting connectivity issues
 
----
-
-## 👨‍💻 Author
-
-**Mesay Fey**
-Aspiring Network Engineer
-
----
-
-If you want, I can also:
-
-* 🔥 Add **badges (GitHub style)**
-* 🎨 Make it **more modern with icons & visuals**
-* 📂 Help you **upload this + .pkt file to GitHub step-by-step**
-
-Just tell me 👍
