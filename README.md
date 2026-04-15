@@ -1,5 +1,5 @@
 
-# 📘 Small Office Network Design (Enterprise-Level)
+# 📘 Small Office Network Design
 
 ## 🚀 Project Overview
 
@@ -126,17 +126,6 @@ Each department is logically separated using VLANs while maintaining controlled 
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-* Network topology
-* VLAN configuration
-* Router configuration
-* DHCP assignment
-* Ping tests (success & failure)
-
----
 
 ## 🚀 How to Run This Project
 
